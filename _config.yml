@@ -1,7 +1,7 @@
 name: 714GridBeta
 favicon: null
-layout_spectrum: 0.16857967688702047
-typography_spectrum: 0.6244670432060957
+layout_spectrum: 0.17192
+typography_spectrum: 0.55435
 title: '714Web #TheGrid Beta Site'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9131637015379965
+    - '#75a5a3'
+    - '#ffffff'
+    - '#3e7c8e'
+    - '#022842'
+    - '#a8c7cc'
+  brandStrength: 0.5
   lightness: 0.3875699129421264
-  saturation: 0.10165340220555663
-  rhythmicContrast: 0.3537496877834201
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
